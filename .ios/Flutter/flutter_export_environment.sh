@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\Users\zaidy\flutter"
-export "FLUTTER_APPLICATION_PATH=A:\flutter-p\letsia-p\المحميه\dio-http-cache"
+export "FLUTTER_APPLICATION_PATH=A:\flutter-p\New folder\dio-cache-update"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
